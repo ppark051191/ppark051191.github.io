@@ -2,9 +2,13 @@ html {
   font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
+header {
+  text-align: center;
+}
+
 h1, h2 {
+  display: block;
   font-family: Verdana;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
 }
 
